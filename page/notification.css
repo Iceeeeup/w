@@ -1,0 +1,198 @@
+.Notificationcontent{   
+    height: 100vh;
+    display: flex;
+    background-color: #fff;
+    color: #000000;
+    padding: 0rem 0.7rem;
+    margin: 0rem 1.5rem 0.1rem 1.5rem;
+    border-radius: 15px;
+
+}
+/* .content{
+    padding: 3rem;
+} */
+
+p{
+    width: 100vh;
+    height: 6rem;
+    border-bottom: 1px solid #000;
+    
+}
+.heart{
+    width: 1rem;
+    height: 1.8rem;
+    color: #fff;
+    box-sizing: border-box;
+    background-color: #FFFFFF;
+    background-position: 2px 4px;
+    background-repeat: no-repeat; 
+    background-size: 20px;
+    border: 0.01px solid #fff;
+    border-radius: 0.5rem;
+    padding-left: 25px;
+    background-image: url('../icon/heart.png') ;
+    width: 100vh;
+    height: 6rem;
+    border-bottom: 1px solid #000;
+    
+}
+.ac{
+    width: 1rem;
+    height: 1.8rem;
+    color: #fff;
+    box-sizing: border-box;
+    background-color: #FFFFFF;
+    background-position: 2px 4px;
+    background-repeat: no-repeat; 
+    background-size: 20px;
+    border: 0.01px solid #fff;
+    border-radius: 0.5rem;
+    padding-left: 25px;
+    background-image: url('../icon/account.png') ;
+}
+.acc{
+    width: 1rem;
+    height: 1.8rem;
+    color: #fff;
+    box-sizing: border-box;
+    background-color: #FFFFFF;
+    background-position: 2px 4px;
+    background-repeat: no-repeat; 
+    background-size: 20px;
+    border: 0.01px solid #fff;
+    border-radius: 0.5rem;
+    padding-left: 25px;
+    background-image: url('../icon/account.png') ;
+}
+.accc{
+    width: 1rem;
+    height: 1.8rem;
+    color: #fff;
+    box-sizing: border-box;
+    background-color: #FFFFFF;
+    background-position: 2px 4px;
+    background-repeat: no-repeat; 
+    background-size: 10px;
+    border: 0.01px solid #fff;
+    border-radius: 0.5rem;
+    padding-left: 25px;
+    background-image: url('../icon/plus.png') ;
+}
+.repost{
+    width: 1rem;
+    height: 1.8rem;
+    color: #fff;
+    box-sizing: border-box;
+    background-color: #FFFFFF;
+    background-position: 2px 4px;
+    background-repeat: no-repeat; 
+    background-size: 26px;
+    border: 0.01px solid #fff;
+    border-radius: 0.5rem;
+    padding-left: 25px;
+    background-image: url('../icon/repost.png');
+    width: 100vh;
+    height: 7rem;
+    border-bottom: 1px solid #000;
+}
+.account1{
+    width: 1rem;
+    height: 1.8rem;
+    color: #fff;
+    box-sizing: border-box;
+    background-color: #FFFFFF;
+    background-position: 2px 4px;
+    background-repeat: no-repeat; 
+    background-size: 20px;
+    border: 0.01px solid #fff;
+    border-radius: 0.5rem;
+    padding-left: 25px;
+    background-image: url('../icon/account.png') ;
+}
+.account2{
+    width: 1rem;
+    height: 1.8rem;
+    color: #fff;
+    box-sizing: border-box;
+    background-color: #FFFFFF;
+    background-position: 2px 4px;
+    background-repeat: no-repeat; 
+    background-size: 20px;
+    border: 0.01px solid #fff;
+    border-radius: 0.5rem;
+    padding-left: 25px;
+    background-image: url('../icon/account.png') ;
+}
+.account3{
+    width: 1rem;
+    height: 1.8rem;
+    color: #fff;
+    box-sizing: border-box;
+    background-color: #FFFFFF;
+    background-position: 2px 4px;
+    background-repeat: no-repeat; 
+    background-size: 20px;
+    border: 0.01px solid #fff;
+    border-radius: 0.5rem;
+    padding-left: 25px;
+    background-image: url('../icon/account.png') ;
+}
+.tree{
+    width: 1rem;
+    height: 1.8rem;
+    color: #fff;
+    box-sizing: border-box;
+    background-color: #FFFFFF;
+    background-position: 2px 4px;
+    background-repeat: no-repeat; 
+    background-size: 26px;
+    border: 0.01px solid #fff;
+    border-radius: 0.5rem;
+    padding-left: 25px;
+    background-image: url('../icon/repost.png');
+    width: 100vh;
+    height: 6rem;
+    border-bottom: 1px solid #000;
+}
+.clound{
+    width: 1rem;
+    height: 1.8rem;
+    color: #fff;
+    box-sizing: border-box;
+    background-color: #FFFFFF;
+    background-position: 2px 4px;
+    background-repeat: no-repeat; 
+    background-size: 20px;
+    border: 0.01px solid #fff;
+    border-radius: 0.5rem;
+    padding-left: 25px;
+    background-image: url('../icon/account.png') ; 
+}
+.sky{
+    width: 1rem;
+    height: 1.8rem;
+    color: #fff;
+    box-sizing: border-box;
+    background-color: #FFFFFF;
+    background-position: 2px 4px;
+    background-repeat: no-repeat; 
+    background-size: 20px;
+    border: 0.01px solid #fff;
+    border-radius: 0.5rem;
+    padding-left: 25px;
+    background-image: url('../icon/account.png') ; 
+}
+.flower{
+    width: 1rem;
+    height: 1.8rem;
+    color: #fff;
+    box-sizing: border-box;
+    background-color: #FFFFFF;
+    background-position: 2px 4px;
+    background-repeat: no-repeat; 
+    background-size: 20px;
+    border: 0.01px solid #fff;
+    border-radius: 0.5rem;
+    padding-left: 25px;
+    background-image: url('../icon/account.png') ; 
+}
